@@ -1,0 +1,8 @@
+{
+  "name": "example-lambda",
+  "version": "0.0.0",
+  "main": "src/index.ts",
+  "scripts": {
+    "build": "esbuild src/index.ts --bundle --minify --legal-comments=none --platform=node --outfile=out.js"
+  }
+}

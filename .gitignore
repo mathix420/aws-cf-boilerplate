@@ -1,0 +1,9 @@
+# Folders
+.parcel-cache/
+node_modules/
+dist/
+
+# Files
+lerna-*.log
+out.js
+.env
