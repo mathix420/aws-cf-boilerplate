@@ -1,4 +1,12 @@
 {
+    "editor.codeActionsOnSave": {
+        "source.fixAll.eslint": true,
+        "source.fixAll": true
+    },
+    "editor.tabSize": 4,
+    "editor.rulers": [
+        100
+    ],
     "[yaml]": {
         "editor.insertSpaces": true,
         "editor.tabSize": 2,
