@@ -32,3 +32,6 @@ lerna add example-package --scope=example-lambda
 ```
 
 Then change `example-package` version to `*` in `example-lambda/package.json`.
+
+
+# TODO: https://aws.amazon.com/fr/blogs/infrastructure-and-automation/deploying-aws-lambda-functions-using-aws-cloudformation-the-portable-way/
